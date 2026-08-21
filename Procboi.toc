@@ -1,0 +1,16 @@
+## Interface: 20506
+## Title: Procboi |cFF8888880.2.0|r
+## Notes: Tracks crafting procs and statistics.
+## Author: Traumlust-Thunderstrike
+## IconTexture: Interface\AddOns\Procboi\Media\Icon
+## Version: 0.2.0
+## Category: Professions
+## X-Curse-Project-ID: 1662239
+## SavedVariables:
+## SavedVariablesPerCharacter: ProcboiDB
+
+Procboi.lua
+Database.lua
+Tracker.lua
+UI.lua
+Commands.lua
